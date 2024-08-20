@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte de uma cartilha para um projeto da faculdade. Decidi adaptar a cartilha para Braille e, ao pesquisar softwares existentes, percebi que muitos não especificavam se o Braille era para português do Brasil (pt-BR). Além disso, encontrei diferenças nos pontos Braille entre os softwares. 
 
-Para garantir uma transcrição precisa, mesmo sem revisão completa, criei este mapeamento baseado em um abecedário brasileiro de braille encontrado online.
+Para garantir uma transcrição precisa, mesmo sem revisão completa, criei este mapeamento baseado em um alfabeto brasileiro de braille encontrado online.
 
 ## Funcionalidades
 
