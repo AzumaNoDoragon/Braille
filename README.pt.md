@@ -34,7 +34,7 @@ Para garantir uma transcrição precisa, mesmo sem revisão completa, criei este
 
 ## Limitações
 
-Este projeto foi desenvolvido utilizando um abecedário Braille encontrado online. No entanto, **não sou especialista em Braille** e, portanto, pode haver imprecisões na transcrição. Abaixo estão algumas das áreas que precisam de revisão:
+Este projeto foi desenvolvido utilizando um alfabeto Braille encontrado online. No entanto, **não sou especialista em Braille** e, portanto, pode haver imprecisões na transcrição. Abaixo estão algumas das áreas que precisam de revisão:
 
 - **Maiúsculas**: A forma correta de usar o indicador de maiúsculas precisa ser confirmada.
 - **Variações de caracteres**: Não estou totalmente seguro de como e quando utilizar as variações de acentuação e outros modificadores no Braille.
